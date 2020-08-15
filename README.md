@@ -1,2 +1,1 @@
-# java-algorithm
-算法学习
+All Algorithms implemented in Java
