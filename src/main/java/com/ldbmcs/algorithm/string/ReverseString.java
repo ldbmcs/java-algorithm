@@ -1,7 +1,7 @@
 package com.ldbmcs.algorithm.string;
 
 /**
- * 反转字符串:https://leetcode-cn.com/problems/reverse-string/
+ * 【简单】反转字符串:https://leetcode-cn.com/problems/reverse-string/
  * 输入：["h","e","l","l","o"] 输出：["o","l","l","e","h"]
  *
  * @author ldbmcs
